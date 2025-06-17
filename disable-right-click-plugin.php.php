@@ -3,7 +3,7 @@
 Plugin Name: Content Guard – Disable Right Click & Protect Content
 Description: Protect your content by disabling right-click, copy, devtools, and more.
 Version: 2.0
-Author: Your Name
+Author: Anuja Londhe 
 */
 
 if (!defined('ABSPATH')) exit;
